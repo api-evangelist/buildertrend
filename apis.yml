@@ -1,0 +1,93 @@
+aid: buildertrend
+name: Buildertrend
+description: >-
+  Buildertrend is an Omaha, Nebraska-based cloud construction-management
+  platform serving residential home builders, remodelers, and specialty trade
+  contractors. The product consolidates sales (CRM, leads, proposals,
+  contracts, email marketing), project management (schedule, daily logs,
+  selections, change orders, warranties, sub portal, client updates), and
+  financial management (estimates, bids, takeoff, job-costing budgets, bills,
+  purchase orders, invoices, online payments) into a single web and mobile
+  application used by 20,000+ builders. Pricing is custom-quoted by sales
+  rather than published self-serve tiers, with unlimited users and projects on
+  every plan, and the platform integrates with QuickBooks, Xero, and other
+  accounting and trade tools through a partner integrations marketplace. The
+  company exposes a REST API at api.buildertrend.com that is gated by partner
+  agreement — endpoints return 401 Unauthorized to the public and there is no
+  open developer portal, public OpenAPI specification, or self-serve API key
+  signup. As a result Buildertrend is profiled here as a non-public
+  (partner-only) API provider; the public surface documented is limited to
+  marketing, support, integrations marketplace, mobile apps, and corporate
+  resources.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Construction
+  - Construction Management
+  - Residential Construction
+  - Home Builders
+  - Remodeling
+  - Specialty Contractors
+  - Project Management
+  - Job Costing
+  - Estimating
+  - Scheduling
+  - CRM
+  - Proposals
+  - Change Orders
+  - Purchase Orders
+  - Invoicing
+  - Client Portal
+  - Subcontractor Portal
+  - Mobile Apps
+  - SaaS
+  - Vertical SaaS
+url: https://raw.githubusercontent.com/api-evangelist/buildertrend/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://buildertrend.com
+  - type: Features
+    url: https://buildertrend.com/features/
+  - type: Pricing
+    url: https://buildertrend.com/pricing/
+  - type: IntegrationsMarketplace
+    url: https://buildertrend.com/integrations-marketplace/
+  - type: Support
+    url: https://support.buildertrend.com
+  - type: LearningAcademy
+    url: https://buildertrend.com/learning-academy/
+  - type: Blog
+    url: https://buildertrend.com/blog/
+  - type: AboutUs
+    url: https://buildertrend.com/about-us/
+  - type: Careers
+    url: https://buildertrend.com/careers/
+  - type: ContactUs
+    url: https://buildertrend.com/contact-us/
+  - type: Login
+    url: https://app.buildertrend.com
+  - type: APIHost
+    url: https://api.buildertrend.com
+  - type: GitHub
+    url: https://github.com/buildertrend
+  - type: iOSApp
+    url: https://apps.apple.com/us/app/buildertrend/id446988805
+  - type: AndroidApp
+    url: https://play.google.com/store/apps/details?id=com.buildertrend
+  - type: Twitter
+    url: https://twitter.com/buildertrend
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/buildertrend
+  - type: Facebook
+    url: https://www.facebook.com/Buildertrend
+  - type: YouTube
+    url: https://www.youtube.com/@Buildertrend
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
