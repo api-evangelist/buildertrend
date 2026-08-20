@@ -53,6 +53,27 @@ tags:
   - Client Portal
   - Subcontractor Portal
   - Mobile Apps
+  - Software-as-a-Service
+  - Vertical SaaS
+tags_raw:
+  - Construction
+  - Construction Management
+  - Residential Construction
+  - Home Builders
+  - Remodeling
+  - Specialty Contractors
+  - Project Management
+  - Job Costing
+  - Estimating
+  - Scheduling
+  - CRM
+  - Proposals
+  - Change Orders
+  - Purchase Orders
+  - Invoicing
+  - Client Portal
+  - Subcontractor Portal
+  - Mobile Apps
   - SaaS
   - Vertical SaaS
 url: https://raw.githubusercontent.com/api-evangelist/buildertrend/refs/heads/main/apis.yml
