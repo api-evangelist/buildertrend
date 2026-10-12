@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/buildertrend/integrations
+- https://n8n.io/integrations/buildertrend/
+- https://composio.dev/toolkits/buildertrend
+- https://monid.ai/tools/buildertrend
+checked:
+- https://composio.dev/toolkits/buildertrend
+- https://monid.ai/tools/buildertrend
+- https://n8n.io/integrations/buildertrend/
+- https://zapier.com/apps/buildertrend/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
