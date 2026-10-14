@@ -1,16 +1,25 @@
 generated: '2026-10-12'
-method: none
+method: searched
 source:
 - https://zapier.com/apps/buildertrend/integrations
 - https://n8n.io/integrations/buildertrend/
 - https://composio.dev/toolkits/buildertrend
 - https://monid.ai/tools/buildertrend
 checked:
+- https://buildertrend.com/integrations/
 - https://composio.dev/toolkits/buildertrend
 - https://monid.ai/tools/buildertrend
 - https://n8n.io/integrations/buildertrend/
 - https://zapier.com/apps/buildertrend/integrations
 summary: null
-marketplace_apps: []
+marketplace_apps:
+- marketplace: own
+  channel: partner-built
+  app: buildertrend
+  url: https://buildertrend.com/integrations/
+  app_count: null
+  adapter: sweep-construction.py:unreadable
+  listed: 0
+  status: not-machine-readable (HTTP 403; integrations and marketplace pages return HTTP 403 to non-browser clients)
 edges: []
 templates: []
