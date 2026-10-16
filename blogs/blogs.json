@@ -2,11 +2,14 @@
   "repo": "buildertrend",
   "feeds": [
     {
-      "source": "https://buildertrend.com/learning-academy/",
-      "error": "HTTPError"
+      "source": "https://buildertrend.com/blog/",
+      "feed_url": "https://buildertrend.com/blog/",
+      "title": "",
+      "saved": 0,
+      "method": "none"
     }
   ],
-  "fetched": "2026-10-03T12:30:02Z",
+  "fetched": "2026-10-10T13:15:00Z",
   "post_count": 1,
   "agent_pulled": "2026-06-27",
   "feed_nature": "vendor-blog",
